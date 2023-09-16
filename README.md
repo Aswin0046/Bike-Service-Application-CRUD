@@ -28,8 +28,11 @@ The Bike Service Application is a web application that allows bike service stati
   - MySQL (Relational database)
 
 
-![Screenshot (33)](https://github.com/Aswin0046/Bike-Service-Application/assets/116013841/044af1e4-43d7-42a9-804b-871e295c1d7f)
-![Screenshot (39)](https://github.com/Aswin0046/Bike-Service-Application/assets/116013841/0f08b90a-10b1-4632-95ff-3e55929b120f)
+![Screenshot (43)](https://github.com/Aswin0046/Bike-Service-Application-CRUD/assets/116013841/ba90994b-170b-42d5-8821-c91f584305ac)
+![Screenshot (42)](https://github.com/Aswin0046/Bike-Service-Application-CRUD/assets/116013841/7c53b7a6-b4e2-42a6-a7d9-82ace94c9ac0)
+
+
+
 ![Screenshot (38)](https://github.com/Aswin0046/Bike-Service-Application/assets/116013841/b7bbce2c-bf1c-416d-a795-f0889214b4db)
 ![Screenshot (37)](https://github.com/Aswin0046/Bike-Service-Application/assets/116013841/2fecffd8-e96d-479a-ae9f-5d54252886d0)
 ![Screenshot (36)](https://github.com/Aswin0046/Bike-Service-Application/assets/116013841/9f7b0993-42c0-42b4-893f-8e21728593e1)
