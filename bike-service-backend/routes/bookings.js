@@ -1,5 +1,5 @@
 const express = require('express');
-const mysql = require('mysql2');
+const mysql = require('mysql');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 
@@ -11,10 +11,9 @@ const pool = mysql.createPool({
   user: 'root',
   password: 'Aswin@20',
   database: 'bike_service',
-  connectionLimit: 10, 
 });
 
-router.get('/', (req, res) => {
+router.get('/booking', (req, res) => {
     const sql = 'SELECT * FROM bookings';
     
     pool.query(sql, (err, results) => {

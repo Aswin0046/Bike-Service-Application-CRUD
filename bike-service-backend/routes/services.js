@@ -16,7 +16,7 @@ const pool = mysql.createPool({
   connectionLimit: 10, 
 });
 
-router.get('/', (req, res) => {
+router.get('/services', (req, res) => {
     const sql = 'SELECT * FROM services';
     
     pool.query(sql, (err, results) => {

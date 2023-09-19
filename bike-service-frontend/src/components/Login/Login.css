@@ -1,0 +1,49 @@
+
+#loginbg{
+    height: 100vh;
+    width: 100%;
+    background-image:url("https://www.vstgroup.com/admin/images/category/VST_Ducati1.jpg");
+    background-size: cover;
+}
+#inDiv{
+    height: 700px;
+    width: 85%;
+    background-color: rgba(240, 248, 255, 0.703);
+    border-radius: 40px;
+}
+.eName,.password{
+    border: none;
+    max-width: 250px;
+    background-color: transparent;
+    outline: none;
+}
+.inputPassword{
+    border-radius: 50px;
+    max-width: 250px;
+    margin: 0 auto;
+    height: 50px;
+    background-color:rgba(255, 255, 255, 0.646);
+}
+.inputForm{
+    border-radius: 50px;
+    max-width: 250px;
+    margin: 0 auto;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.646);}
+
+.button{
+    width: 260px;
+    height: 50px;
+    border: none;
+    border-radius: 35px;
+    background-color: rgba(255, 0, 0, 0.922);
+    color: white;
+    box-shadow: 5px 10px 50px black;
+}
+
+.forgot,.createAct{
+    text-decoration: none;
+}
+img{
+    width: 200px;
+}
